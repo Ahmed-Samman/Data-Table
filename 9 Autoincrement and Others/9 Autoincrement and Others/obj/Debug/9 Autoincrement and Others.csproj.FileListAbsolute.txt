@@ -1,0 +1,8 @@
+D:\C#\18 C# & Database Connectivity\13 DataTable\9 Autoincrement and Others\9 Autoincrement and Others\bin\Debug\9 Autoincrement and Others.exe.config
+D:\C#\18 C# & Database Connectivity\13 DataTable\9 Autoincrement and Others\9 Autoincrement and Others\bin\Debug\9 Autoincrement and Others.exe
+D:\C#\18 C# & Database Connectivity\13 DataTable\9 Autoincrement and Others\9 Autoincrement and Others\bin\Debug\9 Autoincrement and Others.pdb
+D:\C#\18 C# & Database Connectivity\13 DataTable\9 Autoincrement and Others\9 Autoincrement and Others\obj\Debug\9 Autoincrement and Others.csproj.AssemblyReference.cache
+D:\C#\18 C# & Database Connectivity\13 DataTable\9 Autoincrement and Others\9 Autoincrement and Others\obj\Debug\9 Autoincrement and Others.csproj.CoreCompileInputs.cache
+D:\C#\18 C# & Database Connectivity\13 DataTable\9 Autoincrement and Others\9 Autoincrement and Others\obj\Debug\9 Autoincrement and Others.exe
+D:\C#\18 C# & Database Connectivity\13 DataTable\9 Autoincrement and Others\9 Autoincrement and Others\obj\Debug\9 Autoincrement and Others.pdb
+D:\C#\18 C# & Database Connectivity\13 DataTable\9 Autoincrement and Others\9 Autoincrement and Others\obj\Debug\9 Autoincrement and Others.exe.config
