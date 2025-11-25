@@ -1,0 +1,8 @@
+D:\C#\18 C# & Database Connectivity\13 DataTable\8 Primary Key\8 Primary Key\bin\Debug\8 Primary Key.exe.config
+D:\C#\18 C# & Database Connectivity\13 DataTable\8 Primary Key\8 Primary Key\bin\Debug\8 Primary Key.exe
+D:\C#\18 C# & Database Connectivity\13 DataTable\8 Primary Key\8 Primary Key\bin\Debug\8 Primary Key.pdb
+D:\C#\18 C# & Database Connectivity\13 DataTable\8 Primary Key\8 Primary Key\obj\Debug\8 Primary Key.csproj.AssemblyReference.cache
+D:\C#\18 C# & Database Connectivity\13 DataTable\8 Primary Key\8 Primary Key\obj\Debug\8 Primary Key.csproj.CoreCompileInputs.cache
+D:\C#\18 C# & Database Connectivity\13 DataTable\8 Primary Key\8 Primary Key\obj\Debug\8 Primary Key.exe
+D:\C#\18 C# & Database Connectivity\13 DataTable\8 Primary Key\8 Primary Key\obj\Debug\8 Primary Key.pdb
+D:\C#\18 C# & Database Connectivity\13 DataTable\8 Primary Key\8 Primary Key\obj\Debug\8 Primary Key.exe.config
