@@ -1,0 +1,8 @@
+D:\C#\18 C# & Database Connectivity\13 DataTable\7 Clear\7 Clear\bin\Debug\7 Clear.exe.config
+D:\C#\18 C# & Database Connectivity\13 DataTable\7 Clear\7 Clear\bin\Debug\7 Clear.exe
+D:\C#\18 C# & Database Connectivity\13 DataTable\7 Clear\7 Clear\bin\Debug\7 Clear.pdb
+D:\C#\18 C# & Database Connectivity\13 DataTable\7 Clear\7 Clear\obj\Debug\7 Clear.csproj.AssemblyReference.cache
+D:\C#\18 C# & Database Connectivity\13 DataTable\7 Clear\7 Clear\obj\Debug\7 Clear.csproj.CoreCompileInputs.cache
+D:\C#\18 C# & Database Connectivity\13 DataTable\7 Clear\7 Clear\obj\Debug\7 Clear.exe
+D:\C#\18 C# & Database Connectivity\13 DataTable\7 Clear\7 Clear\obj\Debug\7 Clear.pdb
+D:\C#\18 C# & Database Connectivity\13 DataTable\7 Clear\7 Clear\obj\Debug\7 Clear.exe.config
