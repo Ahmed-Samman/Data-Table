@@ -1,0 +1,8 @@
+D:\C#\18 C# & Database Connectivity\13 DataTable\2 Count, Sum, Avg, Min, Max\2 Count, Sum, Avg, Min, Max\bin\Debug\2 Count, Sum, Avg, Min, Max.exe.config
+D:\C#\18 C# & Database Connectivity\13 DataTable\2 Count, Sum, Avg, Min, Max\2 Count, Sum, Avg, Min, Max\bin\Debug\2 Count, Sum, Avg, Min, Max.exe
+D:\C#\18 C# & Database Connectivity\13 DataTable\2 Count, Sum, Avg, Min, Max\2 Count, Sum, Avg, Min, Max\bin\Debug\2 Count, Sum, Avg, Min, Max.pdb
+D:\C#\18 C# & Database Connectivity\13 DataTable\2 Count, Sum, Avg, Min, Max\2 Count, Sum, Avg, Min, Max\obj\Debug\2 Count, Sum, Avg, Min, Max.csproj.AssemblyReference.cache
+D:\C#\18 C# & Database Connectivity\13 DataTable\2 Count, Sum, Avg, Min, Max\2 Count, Sum, Avg, Min, Max\obj\Debug\2 Count, Sum, Avg, Min, Max.csproj.CoreCompileInputs.cache
+D:\C#\18 C# & Database Connectivity\13 DataTable\2 Count, Sum, Avg, Min, Max\2 Count, Sum, Avg, Min, Max\obj\Debug\2 Count, Sum, Avg, Min, Max.exe
+D:\C#\18 C# & Database Connectivity\13 DataTable\2 Count, Sum, Avg, Min, Max\2 Count, Sum, Avg, Min, Max\obj\Debug\2 Count, Sum, Avg, Min, Max.pdb
+D:\C#\18 C# & Database Connectivity\13 DataTable\2 Count, Sum, Avg, Min, Max\2 Count, Sum, Avg, Min, Max\obj\Debug\2 Count, Sum, Avg, Min, Max.exe.config
