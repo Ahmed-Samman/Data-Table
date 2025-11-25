@@ -1,0 +1,8 @@
+D:\C#\18 C# & Database Connectivity\13 DataTable\5 Delete Row\5 Delete Row\bin\Debug\5 Delete Row.exe.config
+D:\C#\18 C# & Database Connectivity\13 DataTable\5 Delete Row\5 Delete Row\bin\Debug\5 Delete Row.exe
+D:\C#\18 C# & Database Connectivity\13 DataTable\5 Delete Row\5 Delete Row\bin\Debug\5 Delete Row.pdb
+D:\C#\18 C# & Database Connectivity\13 DataTable\5 Delete Row\5 Delete Row\obj\Debug\5 Delete Row.csproj.AssemblyReference.cache
+D:\C#\18 C# & Database Connectivity\13 DataTable\5 Delete Row\5 Delete Row\obj\Debug\5 Delete Row.csproj.CoreCompileInputs.cache
+D:\C#\18 C# & Database Connectivity\13 DataTable\5 Delete Row\5 Delete Row\obj\Debug\5 Delete Row.exe
+D:\C#\18 C# & Database Connectivity\13 DataTable\5 Delete Row\5 Delete Row\obj\Debug\5 Delete Row.pdb
+D:\C#\18 C# & Database Connectivity\13 DataTable\5 Delete Row\5 Delete Row\obj\Debug\5 Delete Row.exe.config
