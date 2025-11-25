@@ -1,0 +1,8 @@
+D:\C#\18 C# & Database Connectivity\13 DataTable\3 Filter Data\3 Filter Data\bin\Debug\3 Filter Data.exe.config
+D:\C#\18 C# & Database Connectivity\13 DataTable\3 Filter Data\3 Filter Data\bin\Debug\3 Filter Data.exe
+D:\C#\18 C# & Database Connectivity\13 DataTable\3 Filter Data\3 Filter Data\bin\Debug\3 Filter Data.pdb
+D:\C#\18 C# & Database Connectivity\13 DataTable\3 Filter Data\3 Filter Data\obj\Debug\3 Filter Data.csproj.AssemblyReference.cache
+D:\C#\18 C# & Database Connectivity\13 DataTable\3 Filter Data\3 Filter Data\obj\Debug\3 Filter Data.csproj.CoreCompileInputs.cache
+D:\C#\18 C# & Database Connectivity\13 DataTable\3 Filter Data\3 Filter Data\obj\Debug\3 Filter Data.exe
+D:\C#\18 C# & Database Connectivity\13 DataTable\3 Filter Data\3 Filter Data\obj\Debug\3 Filter Data.pdb
+D:\C#\18 C# & Database Connectivity\13 DataTable\3 Filter Data\3 Filter Data\obj\Debug\3 Filter Data.exe.config
